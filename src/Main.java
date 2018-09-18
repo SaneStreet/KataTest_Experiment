@@ -7,5 +7,9 @@ public class Main {
             Die die = new Die();
             die.roll();
         }
+
+        Calculator calc = new Calculator();
+        System.out.println(calc.add(18,45));
+        System.out.println(calc.subtract(52,32));
     }
 }

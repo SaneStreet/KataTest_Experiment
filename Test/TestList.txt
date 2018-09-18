@@ -1,0 +1,6 @@
+2 + 3 = 5 faked
+4 + 5 = 9
+5 - 3 = 2 faked
+3 - 2 = 1
+
+no more tests. git gud
